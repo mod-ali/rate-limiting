@@ -11,6 +11,6 @@ bucket4j-core v8.7.1
 To start:
 1. run "mvn spring-boot:run"
 2. The app will run on Port 9090
-3. Test with GET request http://localhost:8080/api/items?numTokens=10
+3. Test with GET request http://localhost:9090/api/items?numTokens=10
 
 numTokens must be a number an more than 0
